@@ -1,0 +1,23 @@
+Help File:
+
+
+Section 5.1 in report on "Dataset" is made from Project/Data/Original Dataset
+Section 5.3 in report on "Data Visualisation" and Section 5.4 in report on "Feature Extraction" is made from Project/Data/Feature Extraction code file/Feature Extraction.ipynb
+Section 5.5 in report on "Understanding Data" is made from Project/Data/Understanding Data
+Section 5.6 in report on "Data Preprocessing" is made from Project/Code/Processing/1preprocessing.ipynb
+The output graphs for representing is displayed in Project/Data/Output Graphs
+
+Section 6.1 in report on "K Nearest Neighbours" is made from Project/Code/Algorithms/KNN/KNN-Final.ipynb notebook
+Section 6.2 in report on "Naive Baiyes" is made from Project/Code/Algorithms/Naives Bayes/naive bayes music class.ipynb notebook
+Section 6.3.3 in report on "Neural Network" is made from Project/Code/Algorithms/Neural Network/Neural_Network.ipynb notebook
+Section 6.3.5 in report on "Neural Network" is made from Project/Code/Algorithms/Neural Network/After_removal_of_certain_features.ipynb notebook
+Section 6.4 in report on "Logistic Regression" is made from Project/Code/Algorithms/Logistic Regression/Logistic Regression Music.ipynb notebook
+Section 6.4.1 in report on "Logistic Regression" is made from Project/Code/Algorithms/Logistic Regression/Removing Chroma_stft and rmse together.ipynb notebook
+
+Section 6.5 in report on
+ a) "Support Vector Machine" is made from Code/Algorithms/SVM/Linear/SVM_Linear,
+     Code/Algorithms/SVM/PolyKernel/SVM_POLY.ipynb, Code/Algorithms/SVM/RBF Kernel/SVM_RBF.ipynb, 
+     Code/Algorithms/SVM/Sigmoid Kernel/SVM_SIGMOID.ipynb
+ b)Analysis after varying training and testing data is made Code/Algorithms/SVM/Data Split Analysis/Analysis by varying testing and training data.ipynb
+
+Section 6.6 in report from "Regularizarion is made from Project/Code/Algorithms/SVM/Regularization/Regularization1final.ipynb
